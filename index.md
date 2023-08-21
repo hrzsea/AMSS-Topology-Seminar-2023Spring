@@ -1,126 +1,209 @@
-# This page records the AMSS Topology Seminar in Spring Semester 2021
+# This page records the AMSS Topology Seminar in Spring Semester 2023
 
 （return to homepage of [AMSS Topology Seminar](https://hrzsea.github.io/AMSS-Topology-Seminar/)）
 
-### normally 9:30am-11:30am every Friday 
 
 
+### <font color=Peru size=3> 胡润杰（Stony Brook） </font>
 
-### <font color=Peru size=3>July 9, 2021, Ke Ye (AMSS)</font>
+### <font color=LightCoral size=3>Time: 14：00-15：10, Jun. 28, 2023</font>
 
-Place: N902
+Place: N702
 
-Title: Some topics in applied topology and geometry
+Title: Algebraic Model of Manifolds
 
-Abstract
 
+Abstract: The surgery theory of dimension at least 5 stayed in the central position of classification of manifolds in the last century. In 1970s, Ranicki invented the cosheaf theory of derived quadratic forms to give an algebraic discription of the existence of high dimensional manifolds over a fixed homotopy type and the homotopy manifold classifications. On the other hand, we could understand a homotopy type by passage to rational and p-adic information. Quillen and Sullivan individually developed the rational homotopy theories. Sullivan sketched the approach to algebraize simply connected rational manifolds, i.e., a free dga over Q together with a Poincare duality and several rational Pontryagin classes, and Zhixu Su completed the proof in her thesis. About two decades ago, Mandell proved that  E-inifinity algebras over Fp-bar canb be the algebraic models of p-adic nilpotent homotopy types. Five years ago, Rivera and Zeinalian showed that the cobar construction of coalgebras could give algebraic models of integral homotopy types. We want to generalize Sullivan's rational discussion of manifolds to give algebraic models of manifolds. The project is still in progress but  I will talk about our recent work of 2-adic discussion of Ranicki's theory and one application of this powerful theory to understand Galois actions on smooth complex varieties.
 
-### <font color=Peru size=3>June 4, 2021, 林伟南（北京大学)</font>
+-------------------------------------------------------------------------------------------
 
-<font color=LightCoral size=3>Time Change: 10:15am-11:40am</font>
 
-Place: N902
+### <font color=Peru size=3> 胡瑛（Nebraska University） </font>
 
-Title: On the May Spectral Sequence at the Prime 2
+### <font color=LightCoral size=3>Time: 15：30-16：30, Jun. 21, 2023</font>
 
-Abstract: The May spectral sequence is one of the first effective methods to compute the cohomology of the Steenrod algebra. The E2 page is the cohomology of the associated graded algebra of the Steenrod algebra. In addition to a conjecture of May about all of the indecomposables of E2, we are going to state a conjecture about all of the relations. We also conjecture that this E2 page is nilpotent free. We will show that these conjectures all hold in a big subalgebra of E2 which covers a large range of dimensions.
+Place: N702
 
+Title: Slope detections and the L-space Conjecture for toroidal 3-manifolds
 
-### <font color=Peru size=3>May 14, 2021, Hao Li (National University of Singapore)</font>
 
-<font color=LightCoral size=3>Time Change: 10:15am-11:40am</font>
+Abstract: The L-space conjecture connects topological (taut foliations), analytic (Floer invariants), and algebraic (orderability of groups) properties of 3-manifolds, which has been a very popular topic in low dimensional topology. In this talk, we will introduce the notion of slope detections, and show results to demonstrate how slope detection is powerful notion to study the L-space conjecture for toroidal 3-manifolds.
 
-Place: N902
+This is joint work with Steve Boyer and Cameron Gordon.
 
-Title: Twisted Milnor hypersurface and its genus
+-------------------------------------------------------------------------------------------
 
-Abstract: In this talk, I would like to give a simple introduction about the twisted Milnor hypersurface. This provides a large family of spin (string) manifolds with non zero genus, such as A hat genus, alpha invariant, Witten genus and so on. This is a joint with with Zhi Lv, Fei Han and Jingfang Lian.
+### <font color=Peru size=3> 蔡力（西交利物浦大学） </font>
 
+### <font color=LightCoral size=3>Time: 14：30-15：30, Jun. 21, 2023</font>
 
-### <font color=Peru size=3>May 7, 2021, Ruizhi Huang (AMSS)</font>
+Place: N702
 
-<font color=LightCoral size=3>Time Change: 10:15am-11:40am</font>
+Title: On the loop spaces of certain polyhedral products
 
-Place: N902
 
-Title: Homotopy decompositions of manifolds (0): warm up
+Abstract: A polyhedral product X of given topological spaces is a special subspace of their cartesian product, which is determined by a simplicial complex K. As a special case when K is a disjoint union of its vertices, X is a wedge sum. Moreover, every moment-angle manifold is homotopy equivalent to the homotopy fiber F of the inclusion of such a polyhedral product into the corresponding cartesian product. In this talk we show some recent progress on the homotopy and homology the loop spaces of general X and F, together with some relationships with simplicial groups and Hopf algebras.
 
-Abstract: In the next several weeks, I will talk about several recent works on the homotopy decomposition of manifolds with applications.
+-------------------------------------------------------------------------------------------
 
-The plan is roughly as follows
+### <font color=Peru size=3> 于立（南京大学） </font>
 
-(0)	Warm up: homotopy groups of fibered Calabi-Yau threefolds;
+### <font color=LightCoral size=3>Time: 14：30-16：30, Jun. 14, 2023</font>
 
-(1)	Loop homotopy of $6$-manifolds over $4$-manifolds;
+Place: N702
 
-(2)	A digression: Suspension homotopy of simply connected $6$-manifolds;
+Title: From Stanley-Reisner Ring to Topological Face Ring
 
-(3)	(with Stephen Theriualt) Exponential growth in the rational homology of free loop spaces; 
 
-(4)	(with Stephen Theriault) Loop decomposition of $(2n-2)$-connected of $(4n-1)$-manifolds. 
+Abstract: We introduce how the Stanley-Reisner ring of a simplicial complex can be understood from algebraic topology viewpoints via some spaces arising in toric topology. This reveals some interesting connections between commutative algebras and algebraic topology. Then we explain how the topological interpretation of Stanley-Reisner rings leads to the definition of topological face ring of a nice manifold with corners (and more generally a space with abstract faces).
 
 
-### <font color=Peru size=3>April 30, 2021, Guchuan Li (University of Michigan)</font>
+-------------------------------------------------------------------------------------------
 
-<font color=LightCoral size=3>Time Change: 10:15am-11:40am</font>
 
-Place: N208
 
-Title: Tate cohomology for real oriented cohomology theories
+### <font color=Peru size=3> 王怡 (Stony Brook） </font>
 
-Abstract: In this talk, we present Tate blue shift phenomena for real oriented cohomology theories and norms of them. The ?/p-Tate cohomology spectrum of the n’th Johnson–Wilson theory splits as a wedge of (n-1)’th Johnson–Wilson theories (after completion). We construct a C_2-equivariant lifting of this splitting for Real Johnson–Wilson theories. The C_2-fixed points of this splitting is a higher height analogue to Davis and Mahowald’s splitting of the Tate cohomology spectrum of ko as a wedge of H?. If time allows, I will discuss the normed case. This talk is based on a sequence of joint projects with Hood Chatham, Vitaly Lorman and James D. Quigley.
+### <font color=LightCoral size=3>Time: 14：00-15：00, Jun. 7, 2023</font>
 
+Place: MCM110
 
-### <font color=Peru size=3>April 23, 2021, Yubo Liu(AMSS)</font>
+Title: String topology, cyclic homology, and the Fukaya A-infinity algebra
+Abstract: First, I will describe a new chain model of the (based and free) loop space of a path-connected topological space X, defined using the fundamental groupoid of X, which can be viewed as a generalization of classical theorems of J. F. Adams and K-T Chen. Then I will combine this model with a Jones' type theorem on cyclic homology and S^1 equivariant homology, as well as K. Irie's work on string topology, to describe chain level string topology operations in the S^1-equivariant setting, in particular, chain level string bracket (cyclic loop bracket). Finally, I will use this chain model to lift the Fukaya A-infinity algebra of a Lagrangian submanifold L to a Maurer-Cartan element in the dg Lie algebra of cyclic invariant chains on the free loop space of L, and discuss applications in symplectic topology.
 
-Place: N208
+-------------------------------------------------------------------------------------------
 
-Title: Covering types of spaces
 
-Abstract:
 
+### <font color=Peru size=3> 王军（河北师范大学） </font>
 
-### <font color=Peru size=3>April 9, 2021, Haibao Duan (AMSS)</font>
+### <font color=LightCoral size=3>Time: 14：30-16：30, May. 31, 2023</font>
 
-Place: N208
+Place: N702
 
-Title: Characteristic classes of semi-complex vector bundles (II)
+Title: 广义构型空间在Borsuk-Ulam定理推广上的应用
 
-Abstract:
 
+Abstract: 令 M 为向量空间或者射影空间的子集。报告人及其合作者定义了 M 的广义构型空间，该空间由 M 中元素的 n-元组构成，要求其中任意 k 个元素线性无关。 作为广义构型空间的应用，报告人推广了经典的Borsuk-Ulam 定理。报告人证明了，对于某些连续映射，存在着另外一对非对径点在映射下的像相同。这给出了经典Borsuk-Ulam 定理与Yang-Bourgin 定理的更强形式，这其中利用的主要工具为Fadell定义的取值在理想的上同调指标。实际上，通过利用这个指标，我们同样得到了一些条件，来判断哪些点在球面到欧氏空间映射下的像相同。
 
-### <font color=Peru size=3>April 2, 2021, Haibao Duan (AMSS)</font>
+-------------------------------------------------------------------------------------------
 
-Place: N208
 
-Title: Characteristic classes of semi-complex vector bundles (I)
+### <font color=Peru size=3> Sergei Ivanov（BIMSA） </font>
 
-Abstract:
+### <font color=LightCoral size=3>Time: 14：30-16：30, May. 24, 2023</font>
 
+Place: N702
 
-### <font color=Peru size=3>March 26, 2021, Weiyan Chen (Tsinghua University)</font>
+Title: Rationalization theories for non-nilpotent spaces and groups
 
-Place: N211
 
-Title: Choosing points on cubic plane curves
+Abstract: We give an overview of five rationalization theories for non-nilpotent spaces (Bousfield–Kan’s Q-completion; Sullivan’s rationalization; Bousfield’s homology rationalization; Casacuberta– Peschke’sΩ-rationalization; G´omez-Tato–Halperin–Tanr´e’s π_1- fiberwise rationalization) that extend the classical rationalization of simply connected spaces. We also give an overview of the corresponding rationalization theories for groups (Q-completion; HQ-localization; Baumslag rationalization) that extend the classical Malcev completion. In addition, we will tell about our results on the rationalization of the wedge of two circles for all these types of rationalisations.
 
-Abstract: It is a classical topic to study structures of certain special points on complex smooth cubic plane curves, for example, the 9 flex points and the 27 sextactic points. We consider the following topological question asked by Farb: Is it true that the known algebraic structures give all the possible ways to continuously choose n distinct points on every smooth cubic plane curve, for each given positive integer n? This work is joint with Ishan Banerjee.
+-------------------------------------------------------------------------------------------
 
 
-### <font color=Peru size=3>March 19, 2021, Yang Su (AMSS)</font>
 
-Place: N208
+### <font color=Peru size=3> 黄意（清华大学） </font>
 
-Title: Mapping class groups of projective like planes
+### <font color=LightCoral size=3>Time: 14：30-16：30, May. 17, 2023</font>
 
-Abstract:
+Place: N702
 
+Title: The earthquake metric
 
-### <font color=Peru size=3>March 12, 2021, 李泽龙 （河北师范大学）</font>
 
-Place: N208
+Abstract: Earthquakes are natural generalisations of Fenchel-Nielsen twists deformations on Teichmueller space, and Thurston’s remarkable earthquake theorem asserts that any hyperbolic metric on a given closed surface can be deformed to any other by a unique (left) earthquake. This was famously employed by Kerckhoff in his proof of the Nielsen realisation problem, which quickly cemented their importance in Teichmüller theory. Geometrically speaking, however, (long) Earthquake paths are far from being “twist efficient” - indeed, Mirzakhani shows that earthquake flows on Teichmüller space are measure conjugate to the horocyclic flow. Motivated by wishing to understand how one might efficiently “earthquake” between hyperbolic structures, we initiate the first systematic study of the earthquake metric—a Finsler metric first introduced in Thurston’s “Minimal stretch maps between hyperbolic surfaces” preprint, and discover surprising connections to both the Thurston metric and the Weil-Petersson metric. This is work in collaboration with K. Ohshika, H. Pan and A. Papadopoulos.
 
-题目：持续同调和UMAP背后的数学
+-------------------------------------------------------------------------------------------
 
-摘要：拓扑数据分析(Topological data analysis, TDA)是一门历经15年快速发展的学科，至今已经成为非常活跃的研究方向。它充分应用了代数拓扑中的同调论和同伦论以及诸如离散莫尔斯理论、图论、组合拓扑、动力系统乃至同调代数、范畴论和层论等种种经典的拓扑和代数工具来分析数据点集的形状、演化和分类。它的核心概念--持续同调(persistent homology)及条形码(barcode)已经在生物大分子结构(macro-biomolecular topology)的研究中取得了重要的进展，同时在数学神经科学(mathematical neuroscience)，脑研究(brain study)，传感器网络(sensor network)和材料学等众多领域也有很多崭新应用。最近，许多研究者正在尝试将机器学习的方法与TDA结合起来。这个报告将简要介绍TDA的发展，持续同调的概念和一种最新的机器学习算法背后的数学。
+
+### <font color=Peru size=3> 吴云辉（清华大学） </font>
+
+### <font color=LightCoral size=3>Time: 14：30-16：30, Apr. 19, 2023</font>
+
+Place: N702
+
+Title: Recent developments on random hyperbolic surfaces of large genus
+
+
+Abstract: In this talk, we report several very recent asymptotic results on certain classical geometric quantities viewed as random variables on the moduli space of Riemann surfaces for large genus (and many cusps). This field was initiated by M. Mirzakhani in 2013. This talk is based on several joint works with Hugo Parlier, Xin Nie, Yang Shen and Yuhao Xue.
+
+-------------------------------------------------------------------------------------------
+
+
+### <font color=Peru size=3> 朱中坚（温州大学） </font>
+
+### <font color=LightCoral size=3>Time: 14：30-16：30, Mar. 29, 2023</font>
+
+Place: 781-789-068
+
+Title: Unstable homotopy groups of indecomposable A_3^2-complexes
+
+
+Abstract: In this talk, I will introduce the methods for calculating the unstable homotopy groups of finite CW-complexes which builds on works of the relative James construction initiated by  B. Gray in  1973 and further developed by Yang, Mukai and  Wu  recently. Then I will introduce our works of using these methods to calculate the unstable homotopy groups of indecomposable A_n^2-complexes, which are elementary indecompsable homotopy type classified by by Chang in the 1950s. 
+
+
+-------------------------------------------------------------------------------------------
+
+
+### <font color=Peru size=3> Dylan Allegretti（清华大学） </font>
+
+### <font color=LightCoral size=3>Time: 14：30-15：30, Mar. 22, 2023</font>
+
+Place: N802
+
+Title: Meromorphic differentials and Teichmüller space
+
+
+Abstract: In the late 1980s, Nigel Hitchin and Michael Wolf independently discovered a parametrization of the Teichmüller space of a compact surface by holomorphic quadratic differentials. In this talk, I will describe a generalization of their result where one replaces holomorphic differentials by meromorphic differentials. I will explain how this fits into an even more general story involving spaces of stability conditions and cluster varieties.
+
+-------------------------------------------------------------------------------------------
+
+
+
+
+### <font color=Peru size=3> 阮洋洋（AMSS） </font>
+
+### <font color=LightCoral size=3>Time: 14：30-16：30, Mar. 15, 2023</font>
+
+Place: N802
+
+Title: General Blue-Shift Phenomenon and Generalized Relations of Roots and Coefficients of a Polynomial （II）
+
+
+Abstract: same as that in Part I
+
+
+-------------------------------------------------------------------------------------------
+
+### <font color=Peru size=3> 田垠（北京师范大学） </font>
+
+### <font color=LightCoral size=3>Time: 14：30-16：30, Mar. 08, 2023</font>
+
+Place: N802
+
+Title: Higher dimensional Heegaard Floer homology and Hecke algebras 
+
+
+Abstract: Higher dimensional Heegaard Floer homology (HDHF) is a higher dimensional analogue of Heegaard Floer homology in dimension three. It's partly used to study contact topology in higher dimensions. In a special case, it's related to symplectic Khovanov homology. In this talk, we discuss HDHF of cotangent fibers of the cotangent bundle of an oriented surface and show that it is isomorphic to various Hecke algebras. This is a joint work with Ko Honda and Tianyu Yuan.
+
+-------------------------------------------------------------------------------------------
+
+
+
+
+### <font color=Peru size=3> 阮洋洋（AMSS） </font>
+
+### <font color=LightCoral size=3>Time: 14：30-16：30, Feb. 22, 2023</font>
+
+Place: N802
+
+Title: General Blue-Shift Phenomenon and Generalized Relations of Roots and Coefficients of a Polynomial （I）
+
+
+Abstract: In chromatic homotopy theory, there is a well-known conjecture called blue-shift phenomenon (BSP). Recently, Balmer-Sanders and Barthel-Hausmann-Naumann-Nikolaus-Noel-Stapleton showed that a new BSP is closely related to the Zariski topology of Balmer spectrum of the category of compact genuine A-spectra for a finite abelian group A. To unify these two BSP to one framework, we propose a general blue-shift phenomenon (GBSP) in this paper and have a new idea to explain it in a more conceptual way. To carry out our idea, we use the roots of p^j-series of formal group law of a complex oriented spectrum E in the homotopy group of the generalized Tate spectrum of E originally due to the seminal paper of Hopkins-Kuhn-Ravenel. This motivates us to go further to study the relation of roots and coefficients of a polynomial in a commutative ring R. And we propose a notion called n-tuple of a polynomial in R to obtain generalized relations of roots and coefficients of this polynomial in R. These generalized relations have a broad application prospect in reducing the relations of R, especially they play an extremely important role in explaining GBSP. By taking this brand-new approach, we successfully achieve our idea of the explanation of GBSP for some abelian cases, and obtain that the generalized Tate construction lowers Bousfield class along with many Tate vanishing results. This strengthens and extends previous theorems of Balmer-Sanders and Ando-Morava-Sadofsky. Though our approach could only recover Barthel-Hausmann-Naumann-Nikolaus-Noel-Stapleton, it seems more accessible to deal with GBSP for non-abelian cases. Besides, our approach greatly simplifies the original proof of Bonventre-Guillou-Stapleton (arXiv:2204.03797), which showed that its applications are not restricted to GBSP. Thus our approach deserves more applications and further study.
+
+-------------------------------------------------------------------------------------------
+
 
